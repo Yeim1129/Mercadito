@@ -1,0 +1,6 @@
+C:\Users\J Manuel\Documents\Visual Studio 2019\Mercadito3.0\Mercadito3.0\bin\Debug\Mercadito3.0.dll
+C:\Users\J Manuel\Documents\Visual Studio 2019\Mercadito3.0\Mercadito3.0\bin\Debug\Mercadito3.0.pdb
+C:\Users\J Manuel\Documents\Visual Studio 2019\Mercadito3.0\Mercadito3.0\obj\Debug\Mercadito3.0.csprojAssemblyReference.cache
+C:\Users\J Manuel\Documents\Visual Studio 2019\Mercadito3.0\Mercadito3.0\obj\Debug\Mercadito3.0.csproj.CoreCompileInputs.cache
+C:\Users\J Manuel\Documents\Visual Studio 2019\Mercadito3.0\Mercadito3.0\obj\Debug\Mercadito3.0.dll
+C:\Users\J Manuel\Documents\Visual Studio 2019\Mercadito3.0\Mercadito3.0\obj\Debug\Mercadito3.0.pdb
